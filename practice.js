@@ -128,6 +128,3 @@ console.log(elements.join('-'));
 
 
 // Practice: Same Chores, Different Days
-
-
-// 
